@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Employee</string>
+    <string name="network_error">Network disconnected</string>
+    <string name="network_success">Network Connected</string>
+    <string name="no_data_found_check_your_inteenet_connection">No Data Found. Check your inteenet connection</string>
+    <string name="there_is_no_data">There is No Data</string>
+    <string name="there_is_something_went_wrong">There is something went wrong!!</string>
+</resources>
